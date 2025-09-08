@@ -29,7 +29,7 @@ This project demonstrates a **structural pipeline** for detecting hand gestures 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/HandRec.git // will peast actual later
+git clone https://github.com/PRATHAMdeshkar/FluteNotation
 cd HandRec
 ```
 Install Python Dependencies
